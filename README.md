@@ -19,7 +19,7 @@ import pandas as pd
 pytrends = TrendReq(hl='en-US', tz=360)
 
 # Define search terms (focused on Colombian lingerie market)
-search_terms = ["colombian lingerie", "sexy lingerie", "lace lingerie", "bridal lingerie", "comfortable lingerie"]
+search_terms = ["sample", "sample 2", "sample 3", "sample 4", "sample 5"]
 
 # Function to split the list into chunks
 # This allows us to send multiple search terms in smaller groups to avoid data limits
